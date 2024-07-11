@@ -1,0 +1,6 @@
+# Visual Studio cache directory.
+src/.vs/
+
+# Directories used during application build.
+src/CliProgressTracker/bin/
+src/CliProgressTracker/obj/
